@@ -1,0 +1,12 @@
+.Body-Wrapper{
+    display: flex;
+}
+
+.Method-Selection{
+    flex: 1;
+    align-items: center;
+}
+
+.React-Flow{
+    flex: 3;
+}
